@@ -149,7 +149,7 @@ const isCiEnvironment = process.env["CI"] === "true",
                     ...coverageConfigDefaults.exclude,
                 ],
                 excludeAfterRemap: true, // Exclude files after remapping for accuracy
-                include: ["src/preset.ts", "src/shared-config.ts"],
+                include: ["src/**/*.ts"],
                 // V8 Provider Configuration (Recommended since Vitest v3.2.0)
                 provider: "v8" as const, // Switch to V8 for better TypeScript support
                 reporter: [

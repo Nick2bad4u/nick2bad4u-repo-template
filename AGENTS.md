@@ -29,4 +29,3 @@ npm run release:verify
 - Prettier extends `prettier-config-nick2bad4u`.
 - Package JSON, Secretlint, Remark, Yamllint, TSDoc, Gitleaks, TypeScript, Vitest, and TypeDoc configs are included.
 - GitHub Actions use local scripts for validation and caller workflows for shared security/dependency automation.
-

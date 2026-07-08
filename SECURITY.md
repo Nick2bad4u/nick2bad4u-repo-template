@@ -9,4 +9,3 @@ Report security issues privately through GitHub Security Advisories when the rep
 - GitHub secret scanning custom patterns from `.github/secret_scanning.yml`
 - CodeQL through `.github/workflows/codeql.yml`
 - Dependency review through the shared workflow caller
-

@@ -104,9 +104,10 @@
     ],
     "include": [
         "index.d.ts",
+        "src/**/*.ts",
         "test/**/*.d.ts",
         "test/**/*.ts",
-        "vite.config.ts"
+        "vitest.config.ts"
     ],
     "typeAcquisition": {
         "enable": true,

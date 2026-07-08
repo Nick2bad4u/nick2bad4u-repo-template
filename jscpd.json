@@ -104,14 +104,6 @@
         "xml",
         "csv"
     ],
-    "reportersOptions": {
-        "badge": {
-            "color": "purple",
-            "iconWidth": 13,
-            "label": "jscpd",
-            "style": "flat"
-        }
-    },
     "silent": false,
     "skipLocal": false,
     "threshold": 50,

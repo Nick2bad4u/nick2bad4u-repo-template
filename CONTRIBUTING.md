@@ -17,4 +17,3 @@ npm run package:check
 ```
 
 Use the commit style documented in `.github/agent-commit-message-instructions.md`.
-

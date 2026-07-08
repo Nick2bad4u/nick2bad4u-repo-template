@@ -3,4 +3,3 @@
 ## Unreleased
 
 - Initial local template scaffold.
-

@@ -35,3 +35,7 @@ npm run setup:template -- --name docs-plugin --docs true --stylelint true
 ## What Gets Standardized
 
 The template intentionally keeps app-specific workflows, Electron build jobs, Docusaurus deploys, Codecov, SonarCloud, VirusTotal, and IndexNow out of the default CI path. Those exist in your active repos, but they are not universal enough to belong in every new repo.
+
+## Maintenance Checklist
+
+Use [docs/UPDATE_CHECKLIST.md](docs/UPDATE_CHECKLIST.md) when creating a new repository from this template or refreshing the template after shared tooling updates.
